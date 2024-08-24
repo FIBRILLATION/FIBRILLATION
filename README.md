@@ -1,4 +1,3 @@
-- Hi, I’m Raymond wang！
 - I am from Ritsumeikan University Graduate School, majoring in Business Administration.
 - Currently, I am exploring the application of machine learning and visual coding techniques in business.
 
